@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daimler/workspace/messageQueue/utils/ascopa/tests/ascopaunittests.cpp
+ascopaunittests.h
+-
+ascopa/ascopa.h
+-
+Log/log.h
+-
+thread
+-
+
+/home/daimler/workspace/messageQueue/utils/ascopa/tests/main.cpp
+log.h
+-
+ascopaunittests.h
+-
+ascopa/ascopa.h
+-
+
+utils/ascopa/include/ascopa/ascopa.h
+atomic
+-
+deque
+-
+functional
+-
+string
+-
+
+utils/ascopa/log/log.h
+string
+-
+
+utils/ascopa/tests/ascopaunittests.h
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libascopa.a  CMakeFiles/ascopa.dir/src/ascopa/ascopa.cpp.o CMakeFiles/ascopa.dir/src/ascopa/ascoparegistry.cpp.o
+/usr/bin/ranlib libascopa.a

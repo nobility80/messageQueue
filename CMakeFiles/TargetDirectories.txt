@@ -1,0 +1,10 @@
+/home/daimler/workspace/messageQueue/CMakeFiles/rebuild_cache.dir
+/home/daimler/workspace/messageQueue/CMakeFiles/edit_cache.dir
+/home/daimler/workspace/messageQueue/utils/CMakeFiles/rebuild_cache.dir
+/home/daimler/workspace/messageQueue/utils/CMakeFiles/edit_cache.dir
+/home/daimler/workspace/messageQueue/utils/ascopa/CMakeFiles/rebuild_cache.dir
+/home/daimler/workspace/messageQueue/utils/ascopa/CMakeFiles/edit_cache.dir
+/home/daimler/workspace/messageQueue/utils/ascopa/CMakeFiles/ascopa.dir
+/home/daimler/workspace/messageQueue/utils/ascopa/tests/CMakeFiles/rebuild_cache.dir
+/home/daimler/workspace/messageQueue/utils/ascopa/tests/CMakeFiles/edit_cache.dir
+/home/daimler/workspace/messageQueue/utils/ascopa/tests/CMakeFiles/ASCOPATests.dir

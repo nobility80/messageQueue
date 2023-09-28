@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ASCOPATests.dir/main.cpp.o CMakeFiles/ASCOPATests.dir/ascopaunittests.cpp.o  -o ASCOPATests  ../libascopa.a -lLog -lUnitTest -lpthread 
